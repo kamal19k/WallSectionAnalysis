@@ -1,0 +1,171 @@
+Provided area of steel in the boundary = 18.00000 in^2
+              Spacing between the bars = 5.3333 in.
+
+________________________________________________________________________________
+Boundary Element:
+                  'No of bars'    'Bar Size'     'Rho_l'     'Row'     'Column'
+                  ------------    ----------     -------     -----     --------
+                      22             No.7       1.0185        3          10
+---------------------------------------------------------------------------------
+Web:
+                  'No of bars'    'Bar Size'     'Rho_l'     'Row'     'Column'
+                  ------------    ----------     -------     -----     --------
+                      76             No.4        0.2513        2          38
+________________________________________________________________________________
+Wall BE depth = 54 in.
+Bar spacing in BE = 5.333333 in.
+Bar spacing in web = 6.461538 in.
+	 Max Steel Satisfied
+	 Min Steel Satisfied
+Provided area of steel in the boundary = 18.00000 in^2
+              Spacing between the bars = 5.3333 in.
+
+________________________________________________________________________________
+Boundary Element:
+                  'No of bars'    'Bar Size'     'Rho_l'     'Row'     'Column'
+                  ------------    ----------     -------     -----     --------
+                      22             No.7       1.0185        3          10
+---------------------------------------------------------------------------------
+Web:
+                  'No of bars'    'Bar Size'     'Rho_l'     'Row'     'Column'
+                  ------------    ----------     -------     -----     --------
+                      76             No.4        0.2513        2          38
+________________________________________________________________________________
+Wall BE depth = 54 in.
+Bar spacing in BE = 5.333333 in.
+Bar spacing in web = 6.461538 in.
+	 Max Steel Satisfied
+	 Min Steel Satisfied
+Provided area of steel in the boundary = 18.00000 in^2
+              Spacing between the bars = 5.3333 in.
+
+________________________________________________________________________________
+Boundary Element:
+                  'No of bars'    'Bar Size'     'Rho_l'     'Row'     'Column'
+                  ------------    ----------     -------     -----     --------
+                      22             No.7       1.0185        3          10
+---------------------------------------------------------------------------------
+Web:
+                  'No of bars'    'Bar Size'     'Rho_l'     'Row'     'Column'
+                  ------------    ----------     -------     -----     --------
+                      76             No.4        0.2513        2          38
+________________________________________________________________________________
+Wall BE depth = 54 in.
+Bar spacing in BE = 5.333333 in.
+Bar spacing in web = 6.461538 in.
+	 Max Steel Satisfied
+	 Min Steel Satisfied
+Provided area of steel in the boundary = 18.00000 in^2
+              Spacing between the bars = 5.3333 in.
+
+________________________________________________________________________________
+Boundary Element:
+                  'No of bars'    'Bar Size'     'Rho_l'     'Row'     'Column'
+                  ------------    ----------     -------     -----     --------
+                      22             No.7       1.0185        3          10
+---------------------------------------------------------------------------------
+Web:
+                  'No of bars'    'Bar Size'     'Rho_l'     'Row'     'Column'
+                  ------------    ----------     -------     -----     --------
+                      76             No.4        0.2513        2          38
+________________________________________________________________________________
+Wall BE depth = 54 in.
+Bar spacing in BE = 5.333333 in.
+Bar spacing in web = 6.461538 in.
+	 Max Steel Satisfied
+	 Min Steel Satisfied
+Provided area of steel in the boundary = 18.00000 in^2
+              Spacing between the bars = 5.3333 in.
+
+________________________________________________________________________________
+Boundary Element:
+                  'No of bars'    'Bar Size'     'Rho_l'     'Row'     'Column'
+                  ------------    ----------     -------     -----     --------
+                      22             No.7       1.0185        3          10
+---------------------------------------------------------------------------------
+Web:
+                  'No of bars'    'Bar Size'     'Rho_l'     'Row'     'Column'
+                  ------------    ----------     -------     -----     --------
+                      76             No.4        0.2513        2          38
+________________________________________________________________________________
+Wall BE depth = 54 in.
+Bar spacing in BE = 5.333333 in.
+Bar spacing in web = 6.461538 in.
+	 Max Steel Satisfied
+	 Min Steel Satisfied
+Provided area of steel in the boundary = 18.00000 in^2
+              Spacing between the bars = 5.3333 in.
+
+________________________________________________________________________________
+Boundary Element:
+                  'No of bars'    'Bar Size'     'Rho_l'     'Row'     'Column'
+                  ------------    ----------     -------     -----     --------
+                      22             No.7       1.0185        3          10
+---------------------------------------------------------------------------------
+Web:
+                  'No of bars'    'Bar Size'     'Rho_l'     'Row'     'Column'
+                  ------------    ----------     -------     -----     --------
+                      76             No.4        0.2513        2          38
+________________________________________________________________________________
+Wall BE depth = 54 in.
+Bar spacing in BE = 5.333333 in.
+Bar spacing in web = 6.461538 in.
+	 Max Steel Satisfied
+	 Min Steel Satisfied
+Provided area of steel in the boundary = 18.60000 in^2
+              Spacing between the bars = 2.5263 in.
+
+________________________________________________________________________________
+Boundary Element:
+                  'No of bars'    'Bar Size'     'Rho_l'     'Row'     'Column'
+                  ------------    ----------     -------     -----     --------
+                      42             No.5       1.0046        3          20
+---------------------------------------------------------------------------------
+Web:
+                  'No of bars'    'Bar Size'     'Rho_l'     'Row'     'Column'
+                  ------------    ----------     -------     -----     --------
+                      76             No.4        0.2513        2          38
+________________________________________________________________________________
+Wall BE depth = 54 in.
+Bar spacing in BE = 2.526316 in.
+Bar spacing in web = 6.461538 in.
+	 Max Steel Satisfied
+	 Min Steel Satisfied
+Provided area of steel in the boundary = 18.60000 in^2
+              Spacing between the bars = 2.5263 in.
+
+________________________________________________________________________________
+Boundary Element:
+                  'No of bars'    'Bar Size'     'Rho_l'     'Row'     'Column'
+                  ------------    ----------     -------     -----     --------
+                      42             No.5       1.0046        3          20
+---------------------------------------------------------------------------------
+Web:
+                  'No of bars'    'Bar Size'     'Rho_l'     'Row'     'Column'
+                  ------------    ----------     -------     -----     --------
+                      76             No.4        0.2513        2          38
+________________________________________________________________________________
+Wall BE depth = 54 in.
+Bar spacing in BE = 2.526316 in.
+Bar spacing in web = 6.461538 in.
+	 Max Steel Satisfied
+	 Min Steel Satisfied
+Provided area of steel in the boundary = 18.60000 in^2
+              Spacing between the bars = 2.5263 in.
+
+________________________________________________________________________________
+Boundary Element:
+                  'No of bars'    'Bar Size'     'Rho_l'     'Row'     'Column'
+                  ------------    ----------     -------     -----     --------
+                      42             No.5       1.0046        3          20
+---------------------------------------------------------------------------------
+Web:
+                  'No of bars'    'Bar Size'     'Rho_l'     'Row'     'Column'
+                  ------------    ----------     -------     -----     --------
+                      76             No.4        0.2513        2          38
+________________________________________________________________________________
+Wall BE depth = 54 in.
+Bar spacing in BE = 2.526316 in.
+Bar spacing in web = 6.461538 in.
+	 Max Steel Satisfied
+	 Min Steel Satisfied

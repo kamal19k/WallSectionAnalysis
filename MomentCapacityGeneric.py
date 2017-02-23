@@ -43,25 +43,20 @@ phi = 0.9  # Flexural reduction factor
 L = 30.0 * 12.0  # length of the shear wall [in.]
 t_w = 2.0 * 12.0  # thickness (width) of the shear wall [in.]
 L_be = 54.  # length of Boundary Element [in.]
-boundary_column = 10  # no. of cols in BE
-axial_load = -1065.0  # axial load (negative is compression)
+boundary_column = 20  # no. of cols in BE
+axial_load = -1800.0  # axial load (negative is compression)
 compStrain = -0.003  # Strain at which capacity measured
 steel_max = np.arange(0.01, 0.03, .003)
 
 day = str(datetime.datetime.today().date())
 pref = 'UnPunched_ELF_Dmax_secB2_' + day + '/'  # This is the name of Folder will be created
 # pref = 'Punched50_ELF_pier_' + day + '/'  # This is the name of Folder will be created
-path = 'C:/Users/kamal2/Google Drive/2015_ATC_123_Research_Tsenguun_Kamal/Final Design/' \
-       '8 Story Building/Dmax/Design Trials/' + pref
+path = pref
 if not os.path.exists(path):
     os.makedirs(path)
 filename = path + 'steel_data.txt'
 # close file:
-subprocess.Popen('TASKKILL /IM notepad.exe')
 # remove the previous file
-if os.path.isfile(filename):
-    os.remove(filename)
-
 # print "Number of Runs = %.0f \n" % (len(L) * len(t_w) * len(L_be))
 boundary_row = 3
 if boundary_row == 2:
@@ -90,8 +85,8 @@ for k in range(len(steel_max)):
                                               fn=filename,
                                               path=path)  # axial load
     # insert a function here to do calcs
-    inf = open("Data/StressStrain_ExtComp.out")
-    inf2 = np.loadtxt("Data/StressStrainTensionSteel.out")
+    inf = open("data/StressStrain_ExtComp.out")
+    inf2 = np.loadtxt("data/StressStrainTensionSteel.out")
     for number, l in enumerate(inf, 1):
         if l in ['\n', '\r\n']:
             break
@@ -102,8 +97,8 @@ for k in range(len(steel_max)):
     while strain[index] > compStrain and index < len(strain) - 1:
         # print index, strain[index], len(strain)
         index += 1
-    inf3 = open("Data/Mphi.out")
-    inf4 = np.loadtxt("Data/Mphi.out")
+    inf3 = open("data/Mphi.out")
+    inf4 = np.loadtxt("data/Mphi.out")
     print max(inf4[:, 0])
     for num, l2 in enumerate(inf3):
         if l2 in ['\n', '\r\n']:
